@@ -1,0 +1,178 @@
+body {
+    background-color: lightgrey
+}
+
+.france-flag {
+    height: 300px;
+    width: 450px;
+    margin-bottom: 20px
+}
+
+.france-stripe {
+    height: 300px;
+    width: 150px;
+    display: inline-block;
+    float: left
+}
+
+.germany-flag {
+    height: 300px;
+    width: 500px;
+    margin-bottom: 20px
+}
+
+.germany-stripe {
+    height: 100px;
+    width: 500px
+}
+
+.madagascar-flag {
+    height: 300px;
+    width: 450px;
+    margin-bottom: 20px
+}
+
+.madagascar-stripe1 {
+    height: 300px;
+    width: 150px;
+    display: inline-block;
+    float: left
+}
+
+.madagascar-stripe2 {
+    height: 150px;
+    width: 300px;
+    display: inline-block;
+    float: left
+}
+
+.switzerland-flag {
+    height: 320px;
+    width: 320px;
+    display: grid;
+    grid-template-columns: 6fr 7fr 6fr 7fr 6fr;
+    grid-template-rows: 6fr 7fr 6fr 7fr 6fr;
+    margin-bottom: 20px
+}
+
+.sweden-flag {
+    height: 300px;
+    width: 480px;
+    display: grid;
+    grid-template-columns: 5fr 2fr 9fr;
+    grid-template-rows: 4fr 2fr 4fr;
+    margin-bottom: 20px
+}
+
+.gambia-flag {
+    height: 300px;
+    width: 450px;
+    display: grid;
+    grid-template-rows: 6fr 2fr 4fr 2fr 6fr;
+    margin-bottom: 20px
+}
+
+.japan-flag {
+    height: 300px;
+    width: 450px;
+    position: relative;
+    margin-bottom: 20px
+}
+
+.circle1 {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    border-radius: 50%;
+    top: 60px;
+    left: 135px
+}
+
+.niger-flag {
+    height: 300px;
+    width: 350px;
+    position: relative;
+    margin-bottom: 20px
+}
+
+.niger-stripe {
+    height: 100px;
+    width: 350px
+}
+
+.circle2 {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    border-radius: 50%;
+    top: 110px;
+    left: 135px
+}
+
+.c-002495 {
+    background-color: #002495
+}
+
+.c-ffffff {
+    background-color: #fff
+}
+
+.c-ed2938 {
+    background-color: #ed2938
+}
+
+.c-000000 {
+    background-color: #000
+}
+
+.c-de0002 {
+    background-color: #de0002
+}
+
+.c-ffce00 {
+    background-color: #ffce00
+}
+
+.c-fc3e32 {
+    background-color: #fc3e32
+}
+
+.c-007e39 {
+    background-color: #007e39
+}
+
+.c-ff0002 {
+    background-color: #ff0002
+}
+
+.c-0269a6 {
+    background-color: #0269a6
+}
+
+.c-fecc00 {
+    background-color: #fecc00
+}
+
+.c-ce1127 {
+    background-color: #ce1127
+}
+
+.c-0d1d8b {
+    background-color: #0d1d8b
+}
+
+.c-3b7827 {
+    background-color: #3b7827
+}
+
+.c-bc002c {
+    background-color: #bc002c
+}
+
+.c-e15307 {
+    background-color: #e15307
+}
+
+.c-10af2a {
+    background-color: #10af2a
+}

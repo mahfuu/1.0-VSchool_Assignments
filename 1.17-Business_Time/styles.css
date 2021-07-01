@@ -1,0 +1,55 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: violet;
+    position: absolute;
+    width: 100%
+}
+
+main {
+    background-color: lime;
+}
+
+li {
+    display: inline-block;
+}
+
+.page-container {
+    background-color: teal;
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);
+    grid-template-rows: repeat(13, 100px);
+}
+
+.header {
+    
+}
+
+.social-bar {
+    display: flex;
+}
+
+.social-links {
+    display: flex;
+    align-items: flex-start
+}
+
+.main-logo {
+    display: flex;
+    align-items: center;
+}
+
+.search-bar {
+    display: flex;
+    align-items: flex-end;
+}
+
+.social-bar > li {
+    height: 2 vh;
+    width: 2vh;
+    margin: 1vh;
+    background-color: yellow;
+}
